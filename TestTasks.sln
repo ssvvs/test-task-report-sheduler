@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportShedulerServer", "Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportShedulerClient", "ReportShedulerClient\ReportShedulerClient.csproj", "{DE4F97E2-C340-4CE3-981F-72B3835170F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportShedulerCommon", "ReportShedulerCommon\ReportShedulerCommon.csproj", "{89D64908-36B5-46AD-B24C-4031BE062B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D64908-36B5-46AD-B24C-4031BE062B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D64908-36B5-46AD-B24C-4031BE062B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D64908-36B5-46AD-B24C-4031BE062B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D64908-36B5-46AD-B24C-4031BE062B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
