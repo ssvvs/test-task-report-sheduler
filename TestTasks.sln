@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportShedulerClient", "ReportShedulerClient\ReportShedulerClient.csproj", "{7A235F76-A4AE-4C2D-8DF2-7B5B1BB3AB78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportShedulerServer", "ReportShedulerServer\ReportShedulerServer.csproj", "{9343A402-2CC5-47A2-A9F3-020E789C9BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportShedulerClient", "ReportShedulerClient\ReportShedulerClient.csproj", "{DE4F97E2-C340-4CE3-981F-72B3835170F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7A235F76-A4AE-4C2D-8DF2-7B5B1BB3AB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A235F76-A4AE-4C2D-8DF2-7B5B1BB3AB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A235F76-A4AE-4C2D-8DF2-7B5B1BB3AB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A235F76-A4AE-4C2D-8DF2-7B5B1BB3AB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9343A402-2CC5-47A2-A9F3-020E789C9BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9343A402-2CC5-47A2-A9F3-020E789C9BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9343A402-2CC5-47A2-A9F3-020E789C9BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9343A402-2CC5-47A2-A9F3-020E789C9BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4F97E2-C340-4CE3-981F-72B3835170F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
